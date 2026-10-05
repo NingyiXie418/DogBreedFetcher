@@ -1,4 +1,5 @@
-# Dog Breed Fetcher Mini-Assignment
+#csc412 A1
+
 This is worth 1/3 of your Module 2 mark, and must be submitted individually.
 
 ---
